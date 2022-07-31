@@ -1,0 +1,13 @@
+{
+  "projectName": "aws_simple_amplify_datastore",
+  "version": "2.0",
+  "frontend": "flutter",
+  "providers": [
+    "awscloudformation"
+  ],
+  "flutter": {
+    "config": {
+      "ResDir": "./lib/"
+    }
+  }
+}
